@@ -17,5 +17,6 @@ npm run dev
 
 Ad Soyad: HİLAL GÜL ARIBOĞA
 Numara:235542007
-<img width="1585" height="828" alt="image" src="https://github.com/user-attachments/assets/972b7524-b973-46fa-a2ef-e5448af6e5aa" />
-.
+<img width="1920" height="863" alt="Ekran görüntüsü 2026-02-17 144454" src="https://github.com/user-attachments/assets/32841f18-df71-4501-91e7-57c2769a3fb5" />
+
+
